@@ -1,10 +1,11 @@
 <img align="left" src="/github-metrics.svg" alt="Metrics" width="45%">
 <img align="right" src="/achievements.svg" alt="Achievements" width="50%">
 <img align="right" src="/metrics.plugin.languages.svg" alt="Most Used Languages" width="50%">
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1705162078706288490/5B17C26A68B028AB37FE924EF029A993B0170E9C/" alt="Most Used Languages" width="100%">
+<!--That is an empty horizantal png the same color as GitHub dark. Use it however you like.-->
+<img src="https://i.imgur.com/MqY2LY4.png" alt="Most Used Languages" width="100%" height="1px">
 <img align="left" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="50%">
 <img align="right" src="/metrics.plugin.stars.svg" alt="Starred Repos" width="45%">
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1705162078706288490/5B17C26A68B028AB37FE924EF029A993B0170E9C/" alt="Most Used Languages" width="100%">
+<img src="https://i.imgur.com/MqY2LY4.png" alt="Most Used Languages" width="100%" height="1px">
 <img align="left" src="/metrics.plugin.followup.indepth.svg" alt="Issues and Pull Requests" width="50%">
 <img align="right" src="/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" width="45%">
 
