@@ -12,8 +12,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          template: terminal
+          filename: metrics.terminal.svg
+          base: header, metadata
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Istanbul
           config_padding: 20
           optimize: svg
           experimental_features: --optimize-svg
+          
+          
+  
