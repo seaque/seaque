@@ -1,6 +1,13 @@
 <img align="left" src="/github-metrics.svg" alt="Metrics" width="45%">
-<img align="right" src="/achievements.svg" alt="Metrics" width="50%">
-<img align="right" src="/metrics.plugin.languages.svg" alt="Metrics" width="50%">
+<img align="right" src="/achievements.svg" alt="Achievements" width="50%">
+<img align="right" src="/metrics.plugin.languages.svg" alt="Most Used Languages" width="50%">
+
+* * *
+<img align="left" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="50%">
+<img align="right" src="/metrics.plugin.stackoverflow.svg" alt="Stack Overflow" width="45%">
+
+<!--<img align="right" src="/metrics.plugin.discussions.svg" alt="Discussions" width="50%">
+
 
 
 <!--
