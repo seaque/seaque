@@ -107,4 +107,28 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_stars_limit: 3
-
+  
+  recent-web-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.posts.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: seaque.github.io
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          
+  issues-and-pull-requests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
