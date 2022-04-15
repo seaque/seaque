@@ -1,4 +1,7 @@
-![Metrics](/github-metrics.svg)
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="45%">
+<img align="right" src="/achievements.svg" alt="Metrics" width="50%">
+<img align="right" src="/metrics.plugin.languages.svg" alt="Metrics" width="50%">
+
 
 <!--
 **seaque/seaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
