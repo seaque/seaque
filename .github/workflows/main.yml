@@ -74,15 +74,14 @@ jobs:
           base: ""
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
-          
-  full-year calendar:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: lowlighter/metrics@latest
-            with:
-              filename: metrics.plugin.isocalendar.fullyear.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
-              plugin_isocalendar: yes
-              plugin_isocalendar_duration: full-year
-
+  
+  calendar:
+    runs-on: ubuntu-latest
+    steps:  
+      - uses: lowlighter/metrics@latest
+        with:
+           filename: metrics.plugin.isocalendar.fullyear.svg
+           token: ${{ secrets.METRICS_TOKEN }}
+           base: ""
+           plugin_isocalendar: yes
+           plugin_isocalendar_duration: full-year
