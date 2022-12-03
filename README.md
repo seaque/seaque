@@ -5,5 +5,5 @@ Hi! I am seaque, not the [Space Entanglement and Annealing QUantum Experiment](h
 </p>
 
 <p align="center">    
-  <a href="https://seaque.github.io"><img src="https://img.shields.io/badge/Jekyll-Blog-2ea44f?style=for-the-badge&logo=jekyll&logoColor=red"/></a>
+  <a href="https://seaque.github.io"><img src="https://img.shields.io/badge/Jekyll-Blog-2ea44f?style=for-the-badge&logo=jekyll"/></a>
 </p>
