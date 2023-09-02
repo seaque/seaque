@@ -1,7 +1,6 @@
-Hi! I am seaque, not the [Space Entanglement and Annealing QUantum Experiment](https://www.jpl.nasa.gov/news/space-station-to-host-self-healing-quantum-communications-tech-demo) of NASA, though I had came up with the name a decade ago. Currently I am learning ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white) ![flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white) 
-
+Hi! I am seaque, not the [Space Entanglement and Annealing QUantum Experiment](https://www.jpl.nasa.gov/news/space-station-to-host-self-healing-quantum-communications-tech-demo) of NASA, though I had came up with the name a decade ago before that. The nickname is made up, but turned out it means *whatever* in Spanish.
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,flutter,bash,js,py,r&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=git,flutter,kotlin,bash,js,py&perline=3"/>
 </p>
 
 <p align="center">    
