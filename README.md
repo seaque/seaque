@@ -1,4 +1,4 @@
-Hi! I am seaque, not the [Space Entanglement and Annealing QUantum Experiment](https://www.jpl.nasa.gov/news/space-station-to-host-self-healing-quantum-communications-tech-demo) of NASA, though I had came up with the name a decade ago before that. The nickname is made up, but turned out it means *whatever* in Spanish.
+Hi! I am seaque, not the [Space Entanglement and Annealing QUantum Experiment](https://www.jpl.nasa.gov/news/space-station-to-host-self-healing-quantum-communications-tech-demo) of NASA, though I had came up with the name a decade ago before that.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,flutter,kotlin,bash,js,py&perline=3"/>
 </p>
