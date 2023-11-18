@@ -1,6 +1,6 @@
 Hi! I am seaque, not the [Space Entanglement and Annealing QUantum Experiment](https://www.jpl.nasa.gov/news/space-station-to-host-self-healing-quantum-communications-tech-demo) of NASA, though I had came up with the name a decade ago before that.
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,kotlin,bash,py,ruby&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=git,js,ruby,bash,py,kotlin&perline=3"/>
 </p>
 
 <p align="center">    
